@@ -1,2 +1,2 @@
 # BookList
-BookList App usingBootstrap , JavaScript classes, local storage and more.
+BookList App usingBootstrap , JavaScript classes, Local storage and more.
